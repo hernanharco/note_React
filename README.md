@@ -17,3 +17,7 @@
 - Componentes UI → Shadcn UI
 - Data Fetching → Tanstack Query
 - Testing → Vitest + testing-library
+- npx create-email
+´´´
+  https://www.facebook.com/midudev.frontend/videos/1533858694412354
+´´´
