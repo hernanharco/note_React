@@ -21,3 +21,17 @@
 '''
   https://www.facebook.com/midudev.frontend/videos/1533858694412354
 '''
+
+Mi lista de modelos de IA favoritos a día de hoy
+Código → Sonnet 4.5
+Escritura → GPT-5
+Imagen → Nano Banana
+Música → Suno 5
+Video → Wan 2.5
+Razonamiento → GPT-5 high
+Noticias → Perplexity
+OCR → Gemini Flash
+Voz → ElevenLabs
+Transcripción → Whisper
+IA Local Código → Qwen3-Coder
+IA Local Pequeña → Mistral-magistral-small
